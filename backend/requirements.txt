@@ -1,4 +1,4 @@
 fastapi
 uvicorn
-python-opencv-headless
+opencv-python-headless
 numpy
