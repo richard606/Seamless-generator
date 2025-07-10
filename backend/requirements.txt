@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+python-opencv-headless
+numpy
