@@ -14,7 +14,7 @@ origins = [
     "http://localhost",
     "http://localhost:8000",
     "http://127.0.0.1:8000",
-    # Si vas a desplegarlo, añade aquí la URL de tu frontend
+    "https://seamless-generator.onrender.com", # <--- AÑADIR ESTA LÍNEA
 ]
 
 app.add_middleware(
